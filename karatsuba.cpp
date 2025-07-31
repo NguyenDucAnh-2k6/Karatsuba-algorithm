@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 // Tính tổng
 string findSum(string str1, string str2) {
     if (str1.length() > str2.length()) {  //Quy ước từ đầu là str2 sẽ lớn hơn
